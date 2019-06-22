@@ -1,0 +1,8 @@
+https://www.khanacademy.org/science/organic-chemistry/spectroscopy-jay/proton-nmr/v/coupling-constant
+watched: done
+
+scalar coupling values: 
+http://nmrwiki.org/wiki/index.php?title=Scalar_coupling_values and
+http://sopnmr.ucsd.edu/coupling.htm
+
+may be useful: https://github.com/lmmentel/awesome-python-chemistry

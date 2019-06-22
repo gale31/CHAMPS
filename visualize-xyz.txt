@@ -1,0 +1,3 @@
+https://www.linuxjournal.com/content/visualizing-molecules-python
+https://pymol.org/2/
+https://pymolwiki.org/index.php/Practical_Pymol_for_Beginners

@@ -1,0 +1,2 @@
+different coupling types have really different values of target variable => 
+maybe it would make sense to build separate models for each of them
