@@ -1,0 +1,2 @@
+jupyter: fix altair render fuction
++ clean up and fix used libraries at the beginning
